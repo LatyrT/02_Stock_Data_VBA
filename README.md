@@ -4,7 +4,8 @@
   <img src="stock_price_market.jpg">
 </p>
 
-In this assignment, the objective is to build ....
+In this assignment, the objective is to build summary tables by looping trough each raw and use highlights.
+In the 2nd part, this automated process must be run once for all workesheets.
 
 ## Data Source(s)
 * Excel File
