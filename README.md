@@ -17,10 +17,9 @@ In this assignment, the objective is to build ....
 * VBA programming
 
 ## Website or Links
-![001-VBA Code & Data] (https://drive.google.com/drive/folders/1Vdj54pimvuc1DcbjQ4wQf3vtC0vrcIjm?usp=sharing)
+My code is stored here: https://drive.google.com/drive/folders/1Vdj54pimvuc1DcbjQ4wQf3vtC0vrcIjm?usp=sharing
 
 ## Results
-
 ![GitHub Logo](Sheet_2014_optimized.png)
 
 
